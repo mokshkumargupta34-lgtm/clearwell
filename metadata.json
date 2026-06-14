@@ -1,0 +1,6 @@
+{
+  "name": "Clearwell",
+  "description": "A single-page medication, supplement, and food interaction checker emphasizing calm, trustworthy educational guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
